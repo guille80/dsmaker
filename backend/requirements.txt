@@ -1,0 +1,6 @@
+django<5
+djangorestframework
+djongo
+pymongo
+pydicom
+django-cors-headers
